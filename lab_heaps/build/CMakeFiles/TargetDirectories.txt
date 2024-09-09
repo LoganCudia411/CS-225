@@ -1,0 +1,11 @@
+/workspaces/fa23_cs225_llcudia2/lab_heaps/build/CMakeFiles/test.dir
+/workspaces/fa23_cs225_llcudia2/lab_heaps/build/CMakeFiles/heaps.dir
+/workspaces/fa23_cs225_llcudia2/lab_heaps/build/CMakeFiles/edit_cache.dir
+/workspaces/fa23_cs225_llcudia2/lab_heaps/build/CMakeFiles/rebuild_cache.dir
+/workspaces/fa23_cs225_llcudia2/lab_heaps/build/lib/CMakeFiles/lodepng.dir
+/workspaces/fa23_cs225_llcudia2/lab_heaps/build/lib/CMakeFiles/cs225.dir
+/workspaces/fa23_cs225_llcudia2/lab_heaps/build/lib/CMakeFiles/edit_cache.dir
+/workspaces/fa23_cs225_llcudia2/lab_heaps/build/lib/CMakeFiles/rebuild_cache.dir
+/workspaces/fa23_cs225_llcudia2/lab_heaps/build/src/CMakeFiles/src.dir
+/workspaces/fa23_cs225_llcudia2/lab_heaps/build/src/CMakeFiles/edit_cache.dir
+/workspaces/fa23_cs225_llcudia2/lab_heaps/build/src/CMakeFiles/rebuild_cache.dir
